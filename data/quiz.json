@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "O'zbekistonning poytaxti qayer",
+        "answers": [
+            {
+                "answer_id": 1,
+                "answer_title": "Buxoro",
+                "is_correct": "false"
+            },
+            {
+                "answer_id": 2,
+                "answer_title": "Namangan",
+                "is_correct": "false"
+            },
+            {
+                "answer_id": 3,
+                "answer_title": "Toshkent",
+                "is_correct": "true"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Tojikistonning poytaxti qayer",
+        "answers": [
+            {
+                "answer_id": 1,
+                "answer_title": "Anqare",
+                "is_correct": "false"
+            },
+            {
+                "answer_id": 2,
+                "answer_title": "Dushanbe",
+                "is_correct": "true"
+            },
+            {
+                "answer_id": 3,
+                "answer_title": "Almata",
+                "is_correct": "false"
+            }
+        ]
+    }
+]
